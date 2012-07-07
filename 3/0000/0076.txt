@@ -1,29 +1,29 @@
-こちら　ギアステーションから\xfffeバトルサブウェイに　のれますよ！
-バトルサブウェイとは　トレーナーが\xfffeつよさを　きそう　ちかてつ　です！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeだが　さいしょから　のれるのは\xfffeシングル　ダブル　マルチ　とよばれる\xf000븀\x0000\xfffeトレインだけ　らしいぞ！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeスーパーがつく　トレインに\xfffeのれるようなら　なかなかの\xf000븀\x0000\xfffeトレーナー　ということだ！
-ねえねえ！\xf000븁\x0000\xfffeしょうぶの　まえの　じこしょうかい\xfffeとか　かったり　まけたり　したときの\xf000븀\x0000\xfffeきもちを　おしえて　くれない？
-じゃあ　しょうぶの　まえの\xfffeじこしょうかいを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　まけたときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　かったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　いちばんに　なったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-わかったよ　ありがとう！\xfffeそうか　\xf000Ĝ\x0001\x0000　か……
-あれ？　おしえて　くれないの？\xfffeざんねん……
-ありがとう！\xfffeほかにも　おしえてくれる？
-わかったよ　ありがとう！
-じこしょうかい
-かったとき
-まけたとき
-いちばんになったとき
-おしえない
-シングルトレイン　のりば
-ダブルトレイン　のりば
-マルチトレイン　のりば
-Ｗｉ－Ｆｉトレイン　のりば
-スーパーシングルトレイン　のりば
-スーパーダブルトレイン　のりば
-スーパーマルチトレイン　のりば
-カナワタウンいき　トレイン　のりば
-ただいま　ちょうせいちゅう　です
+Du kannst die Kampfmetro\xfffevon der Station aus nehmen！
+Die Kampfmetro!\xfffeWie der Name schon andeutet, ist die Metro der Ort, wo Trainer ihr Kämpfe austragen！
+Die Kampfmetro hat insgesamt\xfffesieben Linien！\xf000븁\x0000\xfffeAber ich habe gehört, dass die einzigen Züge, \xfffedie du am Anfang nehmen kannst,\xf000븀\x0000\xfffedie Einzel-, Doppel- und Multizüge sind！
+Die Kampfmetro hat insgesamt\xfffesieben Linien！\xf000븁\x0000\xfffeAber du kannst keine Züge mit dem Namen "Super" nehmen, \xfffeohne vorher Leistung\xf000븀\x0000\xfffegebracht zu haben！
+Halli-Hallo！\xf000븁\x0000\xfffeBitte erzähl mir, wie du dich\xfffeselbst vorstelltst und\xf000븀\x0000\xfffewie du dich fühlst, wenn du gewinnst oder verlierst？
+Bitte erzähl mir, wie du dich selbst vorstellst\xfffevor einem Kampf！\xf000븁\x0000
+Bitte erzähl mir, wie du dich \xfffefühlst, wenn du einen Kampf verlierst！\xf000븁\x0000
+Bitte erzähl mir, wie du dich \xfffefühlst, wenn du einen Kampf gewinnst！\xf000븁\x0000
+Bitte erzähl mir, wie du dich \xfffefühlst, wenn du die Nummer eins wirst！\xf000븁\x0000
+Das war's！\xfffeDanke!　\xf000Ĝ\x0001\x0000　Hm...!?
+Du willst nichts sagen？\xfffeNun...
+Danke！\xfffeWirst du mir auch deine andere Gefühle verraten？
+Das war's! Danke！
+EINLEITUNG
+WENN DU GEWINNST
+WENN DU VERLIERS
+WENN DU NUMMER EINS WIRST
+KEINE ANGABE
+GLEIS FÜR EINZELLINIE
+GLEIS FÜR DOPPELLINIE
+GLEIS FÜR MULTILINIE
+WI-FI-LINIE
+GLEIS FÜR SUPER-EINZELLINIE
+GLEIS FÜR SUPER-DOPPELLINIE
+GLEIS FÜR SUPER-MULTILINIE
+GLEIS FÜR ZÜGE NACH FERRULA
+IM BAU
 no data
 no data
