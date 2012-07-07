@@ -115,30 +115,30 @@ Weißer Durchgang
 Brücken-Durchgang
 Routen-Durchgang
 Unterwasserruine
-ヒオウギシティ
-タチワキシティ
-セイガイハシティ
-ポケウッド
-ジョインアベニュー
-サンギタウン
-ヤマジタウン
+Eventura City
+Vapydro City
+Seigaiha City
+Pokéwood
+Join Abenyū
+Sangi Town
+Yamaji Town
 Route 19
 Route 20
 Route 21
 Route 22
 Route 23
-ヒウンげすいどう
-サンギぼくじょう
-タチワキコンビナート
-リバースマウンテン
-ストレンジャーハウス
-チャンピオンロード
-プラズマフリゲート
-こだいのぬけみち
-ヤーコンロード
+Kanalisation von Stratos City
+Sangi Farm
+Vapydro Komplex
+Ribāsu Maunten
+Sutorenjā Hausu
+Siegesstraße
+Plasma Furigēto
+Kodai no Nukemichi
+Clay Road
 －－－－－－－－－－
-しろのじゅどう
-くろのまてんろう
+Weiße Baumhöhle
+Schwarze Wolkenkratzer
 うみべのどうけつ
 こころのくうどう
 かくしあな
