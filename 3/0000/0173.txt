@@ -1,17 +1,17 @@
-\xf000Ā\x0001\x0000！\xfffeただいまー！！\xf000븁\x0000
-アララギはかせって　しってる？\xfffeポケモンけんきゅうで　ゆうめいな\xf000븁\x0000\xfffeママの　ふるい　ともだち　なんだけど\xfffeひさしぶりに　おはなし　してたの\xf000븁\x0000
-とつぜん　だけど\xfffe\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeじぶんの　パートナーとなる\xfffeポケモンは　ほしい？
-もういちど　たずねるけど\xf000븁\x0000\xfffeじぶんの　パートナーとなる\xfffeポケモンは　ほしい？
-ええー！！\xfffeちょっと　おどろき……！\xf000븁\x0000
-よし！\xfffeだい１ステップ　クリア！\xf000븁\x0000\xfffeじゃあ\xfffeポケモンずかんって　しってる？
-さすが！\xf000븁\x0000\xfffeであった　ポケモンを　じどうで\xfffeきろくしていく　すごい　ずかんね\xf000븁\x0000
-そっか……\xf000븁\x0000\xfffeであった　ポケモンを　じどうで\xfffeきろくしていく　すごい　ずかんよ\xf000븁\x0000
-またまた　しつもんです！\xf000븁\x0000\xfffeあなた\xfffeポケモンずかんも　ほしいよね？
-よし！！\xfffeだい２ステップ　クリア！\xf000븁\x0000
-わがままだけど　ママが　ききたいのは\xfffeまえむきな　いけん　だな\xf000븁\x0000\xfffeポケモンずかんを　もつことは\xfffeせかいを　たびするって　こと！\xf000븀\x0000\xfffeその　いみを　かんがえてみて\xf000븁\x0000\xfffeというわけで　もういちど\xf000븁\x0000\xfffeあなた\xfffeポケモンずかんも　ほしいよね？
-\xf000Ā\x0001\x0000！　あなたの\xfffeやるべきことが　きまったわ！\xf000븁\x0000\xfffeあなたに　あうために\xfffeベルと　いう　おんなのこが　きます\xf000븁\x0000\xfffeアララギはかせの　じょしゅで\xfffeおおきなぼうしが　めじるし　だって！\xf000븁\x0000\xfffeそう！　あなたは　ベルという\xfffeおんなのこを　さがすのよ！\xf000븁\x0000\xfffeそして　パートナーとなる　ポケモンと\xfffeポケモンずかんを　うけとるのです！
-\xf000Ā\x0001\x0000！　あなたの\xfffeやるべきことが　きまったわ！\xf000븁\x0000\xfffeあなたに　あうために\xfffeベルと　いう　おんなのこが　きます\xf000븁\x0000\xfffeアララギはかせの　じょしゅで\xfffeおおきなぼうしが　めじるし　だって！\xf000븁\x0000\xfffeそう！　あなたは　ベルという\xfffeおんなのこを　さがすのよ！\xf000븁\x0000\xfffeそして　パートナーとなる　ポケモンと\xfffeポケモンずかんを　うけとるのです！\xf000븁\x0000\xfffeあっ！　バッグの　なか\xfffeライブキャスターは　はいってるよね\xf000븁\x0000\xfffeバッグの　あけかたは　わかる？
-トレーナーになる　あなたに\xfffe「たんけんの　こころえ」に　かかれた\xf000븀\x0000\xfffeこの　ことばを　おくるわ！\xf000븁\x0000\xfffe「トレーナーに　とって　だいじなのは\xfffe　Ｘボタン！」　よ！\xf000븁\x0000\xfffeじゃあ　ベルちゃんを\xfffeさがして　あげてね！
+\xf000Ā\x0001\x0000！\xfffeDu kannst ein Pokémon umsonst bekommen！！\xf000븁\x0000
+Kennst du Prof. Esche？\xfffeSie ist für ihre Pokémon Forschung berühmt!\xf000븁\x0000\xfffeEsche und Ich sind alte Freunde.\xfffeWir sprachen viel miteinander.\xf000븁\x0000
+Aber jetzt\xfffe\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeWillst du\xfffeein Pokémon？
+Ich frage nocheinmal\xf000븁\x0000\xfffeWillst du\xfffeein Pokémon？
+Ich bin ein bisschen überrascht...!\xf000븁\x0000
+OK！\xfffeDas war Schritt eins！\xf000븁\x0000\xfffeWeißt du was über den Pokédex？
+Genau！\xf000븁\x0000\xfffeDas Pokémon wird automatisch\xfffeim Pokédex gespeichert.\xf000븁\x0000
+Nun...\xf000븁\x0000\xfffeDas Pokémon wird automatisch\xfffeim Pokédex gespeichert.\xf000븁\x0000
+Ich werde dir eine andere Frage stellen！\xf000븁\x0000\xfffeWillst du ein Pokédex？
+Alles klar！！\xfffeSchritt zwei ist erledigt！\xf000븁\x0000
+Mit einem Pokédex\xfffekannst du die Welt erkunden!\xf000븁\x0000\xfffeBedenke was dies bedeutet.\xfffeAlso nocheinmal...\xf000븀\x0000\xfffeWillst du ein Pokédex？
+\xf000Ā\x0001\x0000！　Das heißt, du hast was zu tun！\xf000븁\x0000\xfffeGeh und treffe das Mädchen!\xfffeSie ist die Assistentin von Prof. Esche.\xf000븁\x0000\xfffeWerde ein Pokémon Trainer\xfffeund erhalte den Pokédex！
+\xf000Ā\x0001\x0000！　Das heißt, du hast was zu tun！\xf000븁\x0000\xfffeGeh und treffe das Mädchen!\xfffeSie ist die Assistentin von Prof. Esche.\xf000븁\x0000\xfffeWerde ein Pokémon Trainer\xfffeund erhalte den Pokédex！
+Du wirst ein Pokémon Trainer werden!\xf000븀\x0000\xfffeIch stimme da zu！\xf000븁\x0000\xfffeDas wichtigste, was man sich merken muss, ist, dass\xfffeder X-Knopf das Menu öffnet!\xf000븁\x0000\xfffeJetzt geh und finde Bell！
 おんなのこの　なまえは　ベル！\xfffeおおきな　ぼうしが　めじるしだって\xf000븁\x0000\xfffeはじめての　まちで\xfffeまよっているかも　しれないし\xf000븀\x0000\xfffeあなた　さがしてあげてね！
 あら？　ふたり　なかよく\xfffeベルちゃんを　さがしてるんだ！\xf000븁\x0000\xfffeベルちゃん　みつかってないの？\xfffeおおきな　ぼうしが　めじるしだって
 ベル『いまね　あなたの　ママと\xfffeおはなし　してたの！\xf000븁\x0000\xfffeアララギはかせの　すごい\xfffeエピソード　おしえてもらっちゃった！
